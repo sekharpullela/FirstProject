@@ -1,3 +1,3 @@
 Created new branch RB2
-New line "hello" added`
-New line added on master
+New line "Welcome" added`
+New line added in RB2
