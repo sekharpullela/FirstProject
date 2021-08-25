@@ -103,6 +103,7 @@
 */
 
 // Dummy macros for when test framework is not present.
+
 #ifndef COVERAGE
 #define COVERAGE(a, b)
 #endif
