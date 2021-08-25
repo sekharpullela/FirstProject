@@ -18,7 +18,7 @@
 
   All other files should just #include "HandmadeMath.h" without the #define.
 
-  =============================================================================
+  ==============================================================================
 
   To disable SSE intrinsics, you MUST
 
